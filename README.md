@@ -2,7 +2,9 @@
 ## Sapanrat Samerwong
 
 Class:C.2/2
+
 Major:Computer
+
 Interests/Hobbies:watching movies, reading, listening to music
 
 # :wave: The Basics of GitHub 
